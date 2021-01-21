@@ -7,4 +7,4 @@ I am currently learning basic computer science, HTML/CSS, JavaScript, and so on.
 
 <img src="https://github-readme-stats.vercel.app/api?username=minami-cs&theme=ayu-mirage&show_icons=true&hide=stars,prs,issues" />
 
-Want to see my CV? <a href="https://www.notion.so/Minah-Jung-Front-end-Developer-4eef10fd63074d3ea646b01b00c7f81c">👉Click Here!</a>
+<b>Want to see my CV? <a href="https://www.notion.so/Minah-Jung-Front-end-Developer-4eef10fd63074d3ea646b01b00c7f81c">👉Click Here!</a><b>
