@@ -1,6 +1,6 @@
 ## Mina
 
-### Front-end Engineer in progress💪
+### Front-End Engineer in progress💪
 I am currently learning basic computer science, HTML/CSS, JavaScript, and so on.
 - Multicampus K-Digital Training: Jan 2021 - ongoing
 - CS50x: Jun 2020 - ongoing
