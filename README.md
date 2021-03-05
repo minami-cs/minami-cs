@@ -2,7 +2,7 @@
 
 ### Web Developer in progress💪
 I am currently learning `Java`, `JSP`, `Spring`, `Spring Boot`, `Vanilla JavaScript`, `jQuery` and `Oracle DB`
-- K-Digital Training in Multicampus: Jan 2021 - ongoing
+- K-Digital Training at Multicampus: Jan 2021 - ongoing
 - CS50x: Jun 2020 - ongoing
 - Likelion Workers Busan 3rd: Sep 2020 - Dec 2020 *🏆Best Service <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>*
 
