@@ -2,7 +2,7 @@
 
 ### Web Developer in progress💪
 
-#### Current Status: Research Intern 👩‍💻
+#### Current Status: Research Intern at Converging Tech Lab 👩‍💻
 
 I am currently learning these👉 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
