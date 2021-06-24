@@ -4,7 +4,7 @@
 
 #### Current Status: Research Intern at Converging Tech Lab 👩‍💻
 
-I am currently learning these👉 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+I am currently learning these👉 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 - K-Digital Training at Multicampus: Jan 2021 - May 2021 *🏆2nd Prize <a href="https://github.com/phoenixOnteacher/onTeacher">OnTeacher project</a>* *🏆Excellence Award*
 - CS50x: Jun 2020 - ongoing
