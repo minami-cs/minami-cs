@@ -1,6 +1,6 @@
 ## Mina
 
-### Web Developer in progress💪
+###  Developer in progress💪
 
 #### Current Status: Studying at Wecode 👩‍💻
 
