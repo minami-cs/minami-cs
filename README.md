@@ -1,6 +1,6 @@
 ## Mina
 
-### Front-End Developer in progress💪
+### Front-End Engineer in progress💪
 
 #### Current Status: Studying at Wecode 👩‍💻
 
