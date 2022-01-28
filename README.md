@@ -4,7 +4,7 @@
 
 #### Current Status: Studying at Wecode 👩‍💻
 
-I am currently learning these👉 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> ![]('https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white')
+I am currently learning these👉 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'
 
 - K-Digital Training at Multicampus: Jan 2021 - May 2021 *🏆2nd Prize <a href="https://github.com/phoenixOnteacher/onTeacher">OnTeacher project</a>* *🏆Excellence Award*
 - CS50x: Jun 2020 - ongoing
