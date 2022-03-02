@@ -2,8 +2,9 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-### Current Status: Studying at Wecode 👩‍💻
+### Current Status: Actively applying for a job 👩‍💻
 
+- Wecode 28th: Nov 2021 - Feb 2022
 - K-Digital Training at Multicampus: Jan 2021 - May 2021 *🏆2nd Prize <a href="https://github.com/phoenixOnteacher/onTeacher">OnTeacher project</a>* *🏆Excellence Award*
 - CS50x: Jun 2020 - ongoing
 - Likelion Workers Busan 3rd: Sep 2020 - Dec 2020 *🏆Best Service <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>*
