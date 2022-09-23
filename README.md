@@ -6,7 +6,7 @@
 
 - Wecode 28th: Nov 2021 - Feb 2022
 - K-Digital Training at Multicampus: Jan 2021 - May 2021 *🏆2nd Prize <a href="https://github.com/phoenixOnteacher/onTeacher">OnTeacher project</a>* *🏆Excellence Award*
-- CS50x: Jun 2020 - ongoing
+- CS50x: Jun 2020 - Jan 2021
 - Likelion Workers Busan 3rd: Sep 2020 - Dec 2020 *🏆Best Service <a href="https://github.com/boeunbox/bbteam">Boeunbox project</a>*
 
 <img src="https://github-readme-stats.vercel.app/api?username=minami-cs&theme=dracula&show_icons=true&hide=stars,issues" />
