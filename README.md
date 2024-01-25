@@ -4,7 +4,7 @@
 
 ### Current Status: Front-End Engineer 👩‍💻
 
-- Korea National Open University: Mar 2024(expected) -
+- Korea National Open University - Major in Computer Science: Mar 2024(expected) -
 - Wecode 28th: Nov 2021 - Feb 2022
 - K-Digital Training at Multicampus: Jan 2021 - May 2021 *🏆2nd Prize <a href="https://github.com/phoenixOnteacher/onTeacher">OnTeacher project</a>* *🏆Excellence Award*
 - CS50x: Jun 2020 - Jan 2021
