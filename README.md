@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=gradient&customColorList=14&height=300&section=header&text=minami&fontSize=90&fontColor=e6edf3&stroke=CCCCFF&strokeWidth=1&desc=Web%20Frontend%20Engineer&descSize=20&descAlignY=65)
+
+
 # Hi, I'm Minah Jung 🙋‍♀️
 ## As a Front-End Engineer 👩‍💻
 <img src="https://github-readme-stats.vercel.app/api?username=minami-cs&theme=dracula&show_icons=true&hide=stars,issues" />
