@@ -3,7 +3,10 @@
 
 # Hi, I'm Minah Jung 🙋‍♀️
 ## As a Front-End Engineer 👩‍💻
-<img src="https://github-readme-stats.vercel.app/api?username=minami-cs&theme=dracula&show_icons=true&hide=stars,issues" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=minami-cs&theme=dracula&show_icons=true&hide=stars,issues" /> -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/minami-cs" height="200" />
+</a>
 
 ### Skills
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -17,8 +20,3 @@
 
 ### Want to see my CV? Click below!
 👉 <a href="https://www.rallit.com/resumes/669032@mina9301/%EC%A0%95%EB%AF%BC%EC%95%84">(한국어)</a> or <a href="https://www.linkedin.com/in/minah-jung-62b631154/">(English)</a><b>
-
-### Gihub Activity
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/minami-cs"/>
-</a>
