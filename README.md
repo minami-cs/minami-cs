@@ -17,3 +17,8 @@
 
 ### Want to see my CV? Click below!
 👉 <a href="https://www.rallit.com/resumes/669032@mina9301/%EC%A0%95%EB%AF%BC%EC%95%84">(한국어)</a> or <a href="https://www.linkedin.com/in/minah-jung-62b631154/">(English)</a><b>
+
+### Gihub Activity
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/minami-cs"/>
+</a>
